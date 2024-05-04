@@ -977,7 +977,9 @@ strong {
   border-color: transparent;
   color: var(--white-color);
 }
-
+.footer--TjKhNYZ{
+	display:none;
+}
 
 /*---------------------------------------
   RESPONSIVE STYLES               
